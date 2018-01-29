@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-final",
+  "version": "1.0.0",
+  "description": "Final Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JammyHendrix/Portfolio-Final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JammyHendrix/Portfolio-Final/issues"
+  },
+  "homepage": "https://github.com/JammyHendrix/Portfolio-Final#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
